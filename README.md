@@ -5,6 +5,7 @@
 1. Go to [Zombie Killer](https://mjawor.itch.io/zombie-killer).
 2. To play the game download ZombieKiller.rar, unpack it and run ZombieKiller.exe file from "Final Zombie Killer" folder.
 
+
 ## To win the game you have to survive zombie attacks and get to safe house, indicated by an arrow on the compass.
 
 ## How to play: 
