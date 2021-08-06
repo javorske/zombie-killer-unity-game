@@ -1,5 +1,5 @@
 # Zombie Killer Game
-### This is my first game made on the Unity engine while doing a course [The Complete Unity Game Development Course na Udemy](https://www.udemy.com/course/unity-complete/) on Udemy. 
+### This is my first game made on the Unity engine while doing a course [The Complete Unity Game Development Course](https://www.udemy.com/course/unity-complete/) on Udemy. 
 
 ## Install instructions:
 1. Go to [Zombie Killer](https://mjawor.itch.io/zombie-killer).
