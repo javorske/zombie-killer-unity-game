@@ -1,9 +1,10 @@
-# Zombie Killer
+# Zombie Killer Game
 ### This is my first game made on the Unity engine while doing a course "The Complete Unity Game Development Course na Udemy" on Udemy. 
 
 ## Install instructions:
 1. Go to [Zombie Killer](https://mjawor.itch.io/zombie-killer).
-2. To play the game download ZombieKiller.rar, unpack it and run ZombieKiller.exe file from "Final Zombie Killer" folder.
+2. To play the game download ZombieKiller.rar
+3. Unpack it and run ZombieKiller.exe file from "Final Zombie Killer" folder.
 
 ##
 ## To win the game you have to survive zombie attacks and get to safe house, indicated by an arrow on the compass.
